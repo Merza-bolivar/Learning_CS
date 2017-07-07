@@ -1,1 +1,6 @@
 c:\users\zero\documents\visual studio 2015\Projects\Learning 1\Learning 1\bin\Debug\Learning 1.exe.config
+c:\users\zero\documents\visual studio 2015\Projects\Learning 1\Learning 1\bin\Debug\Learning 1.exe
+c:\users\zero\documents\visual studio 2015\Projects\Learning 1\Learning 1\bin\Debug\Learning 1.pdb
+c:\users\zero\documents\visual studio 2015\Projects\Learning 1\Learning 1\obj\Debug\Learning 1.csprojResolveAssemblyReference.cache
+c:\users\zero\documents\visual studio 2015\Projects\Learning 1\Learning 1\obj\Debug\Learning 1.exe
+c:\users\zero\documents\visual studio 2015\Projects\Learning 1\Learning 1\obj\Debug\Learning 1.pdb
